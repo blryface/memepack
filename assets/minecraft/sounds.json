@@ -1,0 +1,12 @@
+{
+  "entity.generic.explode": {
+    "replace": "true",
+    "category": "entity",
+    "sounds": [
+      {
+        "name": "memepack:random/robloxexplode",
+        "pitch": 1.3
+      }
+    ]
+  }
+}
