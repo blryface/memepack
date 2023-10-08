@@ -1,0 +1,33 @@
+{
+  "pack": {
+    "pack_format": 18,
+    "supported_formats": {
+      "min_inclusive": 13,
+      "max_inclusive": 18
+    },
+    "description": {
+      "text": "MemePack 1.0",
+      "color": "Red",
+      "bold": true,
+      "italic": true,
+      "underlined": true,
+      "strikethrough": false,
+      "obfuscated": false,
+      "extra": [
+        {
+          "text": "Also try Pridepack",
+          "color": "Lime",
+          "bold": true,
+          "italic": true,
+          "underlined": true,
+          "strikethrough": false,
+          "obfuscated": false,
+          "clickEvent": {
+            "action": "open_url",
+            "value": "https://pridecraft.gay/pridepack"
+          }
+        }
+      ]
+    }
+  }
+}
