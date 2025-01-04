@@ -1,4 +1,4 @@
-# MemePack
+# Memepack
 
 This is a resource pack that changes some assets of the game to be popular memes. This right now only includes paintings, but will have other assets too.
 
