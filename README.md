@@ -1,10 +1,15 @@
 # MemePack
-This is a resource pack that changes some assets of the game to be popular memes. This includes paintings, sounds and regular textures.
+
+This is a resource pack that changes some assets of the game to be popular memes. This right now only includes paintings, but will have other assets too.
+
 ## Screenshots
-![alt](https://storage.googleapis.com/proudcity/mebanenc/uploads/2021/03/placeholder-image.png)
-![alt](https://storage.googleapis.com/proudcity/mebanenc/uploads/2021/03/placeholder-image.png)
-## Also Try [Pridepack](https://pridecraft.gay/pridepack)
-Pridepack is a Resource Pack made by [Pridecraft Studios](https://pridecraft.gay) that themes textures to LGBTQA+ pride. It's not intrusive and won't leave your game looking like someone just vomited rainbows all over the place.
-### Get Pridepack on
-[![Get on Modrinth](https://rawcdn.githack.com/intergrav/devins-badges/1aec26abb75544baec37249f42008b2fcc0e731f/assets/cozy/available/modrinth_64h.png?raw=true)](https://modrinth.com/resourcepack/pridepack) [![Get on CurseForge](https://rawcdn.githack.com/intergrav/devins-badges/1aec26abb75544baec37249f42008b2fcc0e731f/assets/cozy/available/curseforge_64h.png?raw=true)](https://www.curseforge.com/minecraft/texture-packs/pride-pack) [![Get on GitHub](https://rawcdn.githack.com/intergrav/devins-badges/1aec26abb75544baec37249f42008b2fcc0e731f/assets/cozy/available/git_64h.png?raw=true)](https://github.com/Pridecraft-Studios/pridepack) [![Stolen by TLMods](https://rawcdn.githack.com/Nu-Git/blurrybadges/88c6971e38f189d9dc9393c8a4933974559c3c1d/badges/64h/Stolen%20By%20TLMods.png?raw=true)](https://tlmods.org/en/resourcepacks/pride-pack/) [![Get on PMC](https://github.com/Nu-Git/blurrybadges/blob/main/badges/64h/Avaliable%20On%20PMC.png?raw=true)](https://www.planetminecraft.com/member/canalnu/)[ 
-![Get on CurseRinth](https://rawcdn.githack.com/Nu-Git/blurrybadges/88c6971e38f189d9dc9393c8a4933974559c3c1d/badges/64h/Avaliable%20on%20Curserinth.png?raw=true)](https://curserinth.kuylar.dev/resourcepack/respack__pride-pack) 
+
+TBD
+
+## Pridepack
+
+[Pridepack](https://pridecraft.gay/pridepack) is a Resource Pack made by [Pridecraft Studios](https://pridecraft.gay). It comes with many LGBT Pride additions, such as paintings, beds, mobs and Main Menu changes. If you're interested in gaying your game, you should check it out!
+
+![Various Pridepack features sitting on a colourful surface.](https://pridecraft.gay/gallery/pridepack/banner.avif)
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://modrinth.com/resourcepack/memepack">Memepack</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://blurry.gay">Blurryface</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
